@@ -4,7 +4,7 @@ A NodeJS CLI for quiz with stored Score Board
 
 ### Live Link
 
-[Click here](https://replit.com/@mak626/mark1)
+[Click here](https://replit.com/@mak626/mark2)
 
 ### To run locally
 
