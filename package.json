@@ -1,0 +1,15 @@
+{
+  "name": "simple-quiz-2",
+  "version": "1.0.0",
+  "description": "A NodeJS CLI for quiz with stored Score Board",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "M Aswin Kishore",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "readline-sync": "^1.4.10"
+  }
+}
