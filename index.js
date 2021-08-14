@@ -12,6 +12,7 @@ let questionAnswer = [
     answer: "strategic homeland intervention enforcement logistics division",
   },
   { question: `"bella ciao" Which series is this from`, answer: "money heist" },
+  { question: `Who lives at 221B Baker Street`, answer: 'sherlock holmes' },
 ];
 
 let score,
